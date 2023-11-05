@@ -1,0 +1,128 @@
+               ###                    
+               ####                    
+              ##### ###              
+      ############  ######          
+       #####   ##    ####
+               ##    ###                                  ##
+        ########    ###                                  #######.  
+     ###########   ###                                 ########  *
+      ### #   #  ###                    .*####           #####    ##
+        #    ####                    *    #####          #####     *##
+            ###                            ###           ####     ######
+             #                  #         ##             ###############
+            ########                                    #############
+         ########           *           *            ###########
+            ###    ###    *#           ####        #########
+          ##########     ##             ####            ####
+       #########        ##                *            ########
+           ##         #####                       *        ####
+          ##    ##############             *               ###        * 
+          ##  ###    ## #######            ##   ##       ####      #*  ###
+         ## ##      ##   ####             ###  ##      ############   #####
+         ####      ###   ###              ### ##         #######     ### 
+        ## ##     ##### ###                ####            ###      #*
+        ####       #######                                                  so
+_______________________________________________________________________________
+           _
+    |)ear |-riends:
+               _
+         Yea!  (he third volume of my Art Collections is right here,
+     ready to show off itself.  The subject of this collection is
+     Calligraphy.  Both Chinese and Western calligraphy are included.
+     Some of them artistic, some not.  But all are interesting...
+     especially when you get it for free.... :-)
+         _
+	 (o distinguish Chinese from Western, the filenames starting
+     with capital letters are Chinese calligraphic works, else English.
+         _
+         (here is a file called "cursive.shar".  It is a shell archive
+     of the C source code for "cursive", a program that types out hand-
+     written looking letters.  Make a new directory that contains only
+     this file and type "sh curive.shar" to unarchive it.  Then, type
+     "make" to compile.  Included is a troff-able man page "cursive.6".
+     This program is copyrighted by Jan Wolten but can be distributed
+     freely for non-commercial use.
+
+	 _
+	 (he following is the table of content of this package:
+
+     Chess.cga	-  A full Chinese chess set originally designed for
+		   IBM CGA and EGA graphics card by myself.  The
+		   corresponding Chinese Chess program is under
+		   construction and to be completed in 2010 A.D.
+
+     Chess.ega	-  A higher resolution version of the above, designed
+		   for use with the EGA graphics adapter.
+
+     Copywrite  -  Since some of my creations have been copied w/o
+		   my consent and misused later, I have created this
+		   copywrite notice.  I know it's of no use except
+		   for fun.
+
+     Dragon	-  Dragon
+
+     Folk.87	
+     Folk.88	-  I had planned to create a "Folk", probably the most
+		   popular single-char calligraphy, each Chinese year
+		   starting from 1987.
+
+     Him	-  I was named "Him" by my grandfather in my great
+		   surprise.  I thank him for giving me such a humble
+		   name but I have disappointed him.  (If anybody 
+		   thinks this is a humble statement, I am willing to
+		   remove it without hesitation).
+
+     Intro	-  This file.
+
+     LookAway	-  Look away D.  Quite an interesting style of modern
+		   Chinese calligraphy.  Sent to me by Ken Yan.
+
+     Newyear.1
+     Newyear.2
+     Newyear.3
+     Newyear.4  -  Some Happy New Year greeting words.
+
+     Patience	-  Patience.  The second most popular single-char Chinese
+		   calligraph... probably.
+
+     Progress   -  Good luck in your academic performance.
+
+     Pushback   -  The "Push Back Picture".  Created by cs161fca@
+		   sdcc10.ucsd.edu
+		  
+     Xmas	-  Merry Christmas.
+
+     _
+     (he following is the English collection.  They are really self-
+     explanatory (except cursive.shar):
+
+     bye
+     chicago
+     cursive.shar - The public domain cursive archive... See above.
+     hello
+     hi1
+     hi2
+     hi3
+     hmmm
+     intel
+     love
+     me
+     missyou
+     peacock	-  by Kwok Liao
+     pet
+     peterlai	-  Obviously by Peter
+     valentine
+     xmas
+
+
+     __
+     |-   _         //
+     |_ N ) O (/  ..
+	      / 
+____________________________________________________________________________
+
+    ______  ____________________  
+    / / ._>____ __ __ __  __ __    Bryan So (so@brownie.cs.wisc.edu)
+   / / . \ / ._>\ ' //. |/  ' /    Computer Sciences Department
+  /_/____//_\_\  / //_\_|_/\_/     1210 W. Dayton
+ ______________ /_/_________       Madison, WI 53706

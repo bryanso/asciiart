@@ -1,0 +1,39 @@
+From uwvax!uwm.edu!bionet!agate!dog.ee.lbl.gov!nosc!crash!pro-grouch.cts.com!lhaider Sat Feb 16 22:41:11 1991
+Article: 6236 of comp.sys.ibm.pc.misc
+Path: uwvax!uwm.edu!bionet!agate!dog.ee.lbl.gov!nosc!crash!pro-grouch.cts.com!lhaider
+From: lhaider@pro-grouch.cts.com (Laer Haider)
+Newsgroups: comp.sys.ibm.pc.misc
+Subject: Software Rental
+Message-ID: <7581@crash.cts.com>
+Date: 15 Feb 91 20:58:51 GMT
+Sender: root@crash.cts.com
+Lines: 26
+
+I'm looking for a software driver for by PC/XT clone that will make it
+recognize hard disk space or extended memory as LIM 4.0 expanded memory.
+My question here is:  What utility do you all recommend to do this?
+I've heard of a program called "Above Disk" that does this trick and
+would like to try it out.  However, I understand there are several more
+utilities that do the same function in different manners.  What I'd like
+to do is try several and figure out which does the best job for my
+configuration.  Which leads me to my next question.
+
+Is there a company that rents software so that users may try them out
+before making a purchasing decision?  Again, I've heard there's one in
+L.A. but don't know any specifics.  I don't want to appear to be a
+software pirate, but don't want to commit my money to something I will
+be unhappy with.  Any comments, suggestions and/or assistance will be
+appreciated!  :)
+                                                                      /
+                                                       \             / / 
+______________________________________________________  \\\' ,      / //
+            ProLine:   pro-grouch!lhaider                \\\//,   _/ //,
+               INET:   lhaider@pro-grouch.cts.com         \_-//' /  //<,
+    /\\        UUCP:   crash!pro-grouch!lhaider             \ ///  <//`
+   //\\\       UUCP:   crash!pro-grouch!lhaider@nosc.mil     /  >>  \\\`__/_
+  ///\\\\                                                   /,)-^>> _\` \\\
+ ////\\\\\     The opinions expressed here belong to        (/   \\ //\\
+// IIgs \\\    no entity(s), living or dead!                    // _//\\\\
+------------------------------------------------------        ((` ((
+
+

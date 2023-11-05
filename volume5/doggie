@@ -1,0 +1,48 @@
+From uwvax!zazen!uakari.primate.wisc.edu!zaphod.mps.ohio-state.edu!swrinde!cs.utexas.edu!cse!desimone Fri May 10 17:06:28 1991
+Article: 15148 of comp.binaries.ibm.pc.d
+Path: uwvax!zazen!uakari.primate.wisc.edu!zaphod.mps.ohio-state.edu!swrinde!cs.utexas.edu!cse!desimone
+From: desimone@cse.uta.edu (David DeSimone)
+Newsgroups: comp.binaries.ibm.pc.d
+Subject: Re: Why are McAffee Antivirals repacked using ZOO?
+Message-ID: <1991May9.064338.6039@cse.uta.edu>
+Date: 9 May 91 06:43:38 GMT
+References: <roeve.671697898@cip-s01> <1042@iiasa.UUCP>
+Distribution: comp
+Organization: Computer Science Engineering Univ. of Texas at Arlington
+Lines: 33
+
+In article <1042@iiasa.UUCP> wnp@iiasa.AT (Wolf PAUL ) writes:
+>roeve@cip-s01.informatik.rwth-aachen.de (Michael Roevenich) writes:
+>+ Well, the subject says about everything: Why are those programs
+>+ repacked with ZOO? In their original ZIP-archive, they are packed 
+>+ using the -AV-Option, which is supposed to be a guard against
+>+ tangling with its contents.
+>
+>Because it is C.B.I.P. policy to package all postings in ZOO format.
+>ZOO has the advantage of being fully functional in a wider range of
+>hardware/software environments (including UNIX on practically any CPU)
+>than ZIP or any of the other PC Archivers. It is available in source 
+
+>and is FREEWARE rather than Shareware.
+
+Um...According to the license I read, PKZIP does not *require* a
+registration fee, it only asks for one.  Isn't that freeware?
+Also, ZIP is quickly gaining use on Unix machines.
+
+>Anyway, how could any option to an archiver really guard against
+>tampering? All you would have to do is unpack them (w/ pkunzip),
+>tamper with them, and repack them (w/ zip -av), and you would be none
+>the wiser.
+
+The -AV option requires a special serial number, hopefully known only to
+the original vendor who packed the archive.  Thus you cannot actually
+recreate an archive with verification unless you are a serial number
+holder, and that is controlled by PK-Ware.
+
+-- 
+David DeSimone, aka "Fuzzy Fox" on some networks.          /!/!
+INET:    an207@cleveland.freenet.edu                      /  ..
+Q-Link:  Fuzzy Fox                                        /   --*
+Quote:   "Foxes are people too!  And vice versa."         /  ---
+
+
